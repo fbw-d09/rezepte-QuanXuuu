@@ -7,7 +7,7 @@
 |kcal | Eiseiss | Fett | Kohlendydr.|
 |-----|----------|------|---------|
 |412 |29,94g |13,93g |  41,68g|
---------
+
 
 ## Zutaten :bento:
 | Zutat | Menge |
@@ -19,7 +19,7 @@
 |Chinakohl |500g|
 |Rindersteak(s) |300g|
 |Sojasauce |5EL|
---------
+
 
 ## Zubereitung :stew:
 

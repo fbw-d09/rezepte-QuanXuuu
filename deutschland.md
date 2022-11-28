@@ -7,7 +7,7 @@
 |kcal | Eiseiss | Fett | Kohlendydr.|
 |-----|----------|------|---------|
 |929 |42,57g |58,31g |  52,01g|
------
+
 
 ## Zutaten :bento:
 
@@ -20,7 +20,7 @@
 |Pinkelwürste | 10|
 |Speck| 500g|
 |Kasseler | 8|
------
+
 
 ## Zubereitung :stew:
 Gänseschmalz in einem großen Topf erhitzen und die fein gewürfelten Zwiebeln darin anschwitzen. Gefrorenen Kohl dazugeben und ¾ Liter heiße Brühe angießen. Topf schließen und den Kohl bei geringer Hitze in ca. ½ Stunde auftauen.
