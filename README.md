@@ -1,6 +1,6 @@
 
-# Meine Lieblingsrezepte -- Quan
+# Meine Lieblingsrezepte 
 
-## - Heimat Rezept ([Bratnudeln mit Rindfleisch](./heimat.md))
+##  Heimat Rezept ([Bratnudeln](./heimat.md))
 
-## - Deutschland Rezept ([Grünkohl](./deutschland.md))
+##  Deutschland Rezept ([Grünkohl](./deutschland.md))
