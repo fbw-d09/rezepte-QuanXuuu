@@ -3,4 +3,4 @@
 
 ## - Heimat Rezept ([Bratnudeln mit Rindfleisch](./heimat.md))
 
-## - Deutschland Rezept
+## - Deutschland Rezept ([Grünkohl](./deutschland.md))
