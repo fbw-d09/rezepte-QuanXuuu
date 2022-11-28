@@ -5,8 +5,8 @@
 ## Nährwerte pro Portion :fork_and_knife:
 
 |kcal | Eiseiss | Fett | Kohlendydr.|
------|----------|------|---------|
-412 |29,94g |13,93g |  41,68g|
+|-----|----------|------|---------|
+|412 |29,94g |13,93g |  41,68g|
 
 ## Zutaten :bento:
 
