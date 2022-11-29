@@ -19,6 +19,7 @@
 |Chinakohl |500g|
 |Rindersteak(s) |300g|
 |Sojasauce |5EL|
+|Öl | 1EL|
 
 
 ## Zubereitung :stew:
