@@ -1,6 +1,7 @@
 # _Bratnudeln_ :ramen:
 
 ![bratnudeln mit rindfleisch](https://images.unsplash.com/photo-1585032226651-759b368d7246?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpbmVzZSUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=1100&q=60)
+---
 
 ## Nährwerte pro Portion :fork_and_knife:
 

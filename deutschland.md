@@ -1,6 +1,7 @@
 # _Grünkohl_ :stew:
 
 ![Grünkohleintopf](https://images.unsplash.com/photo-1539207107274-c576d0d5b375?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8a2FsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1100&q=60)
+---
 
 ## Nährwerte pro Portion :fork_and_knife:
 
